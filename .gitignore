@@ -1,0 +1,13 @@
+*.csv
+*.vim
+elmo/*
+*.log
+*.aux
+*_aux
+*_log
+*.xls
+*.xlsx
+*.out
+*.part
+*~
+*_checkpoints*
