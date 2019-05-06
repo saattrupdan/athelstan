@@ -1,0 +1,156 @@
+Input File::report.tex::0::0::Input File
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size11.clo::0::0::Input File
+Input File::hyperref.sty::0::0::Input File
+Input Package::hyperref.sty::0::0::hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+Input File::hobsub-hyperref.sty::0::0::Input File
+Input Package::hobsub-hyperref.sty::0::0::hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+Input File::hobsub-generic.sty::0::0::Input File
+Input Package::hobsub-generic.sty::0::0::hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Input Package::hobsub-generic.sty::0::0::hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Input Package::hobsub-generic.sty::0::0::infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Input Package::hobsub-generic.sty::0::0::ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Input Package::hobsub-generic.sty::0::0::ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package Info::hobsub-generic.sty::0::0::LuaTeX not detected. (ifluatex)
+Input Package::hobsub-generic.sty::0::0::ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package Info::hobsub-generic.sty::0::0::VTeX not detected. (ifvtex)
+Input Package::hobsub-generic.sty::0::0::intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Input Package::hobsub-generic.sty::0::0::ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Input Package::hobsub-generic.sty::0::0::etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package Info::hobsub-generic.sty::0::0::Could not find \expanded. That can mean that you are not using pdfTeX 1.50 or that some package has redefined \expanded. In the latter case, load this package earlier. (etexcmds)
+Input Package::hobsub-generic.sty::0::0::kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Input Package::hobsub-generic.sty::0::0::kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Input Package::hobsub-generic.sty::0::0::pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
+Package Info::hobsub-generic.sty::0::0::LuaTeX not detected. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@primitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@ifprimitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdfdraftmode found. (pdftexcmds)
+Input Package::hobsub-generic.sty::0::0::pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Input Package::hobsub-generic.sty::0::0::bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Input Package::hobsub-generic.sty::0::0::bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Input Package::hobsub-generic.sty::0::0::uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+Package Info::hobsub-hyperref.sty::0::0::Skipping package `hobsub' (already loaded). (hobsub)
+Input Package::hobsub-hyperref.sty::0::0::letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Input Package::hobsub-hyperref.sty::0::0::hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Input Package::hobsub-hyperref.sty::0::0::xcolor-patch 2016/05/16 xcolor patch
+Input Package::hobsub-hyperref.sty::0::0::atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package Info::hobsub-hyperref.sty::0::0::\enddocument detected (standard20110627). (atveryend)
+Input Package::hobsub-hyperref.sty::0::0::atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Input Package::hobsub-hyperref.sty::0::0::refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Input Package::hobsub-hyperref.sty::0::0::hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::ifxetex.sty::0::0::Input File
+Input Package::ifxetex.sty::0::0::ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+Input File::auxhook.sty::0::0::Input File
+Input Package::auxhook.sty::0::0::auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+Input File::kvoptions.sty::0::0::Input File
+Input Package::kvoptions.sty::0::0::kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+Input File::pd1enc.def::0::0::Input File
+Input File::hyperref.cfg::0::0::Input File
+Package Info::hyperref.sty::4509::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::4514::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::4517::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::4524::0::Plain pages OFF. (hyperref)
+Package Info::hyperref.sty::4529::0::Backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::0::0::Implicit mode ON; LaTeX internals redefined. (hyperref)
+Package Info::hyperref.sty::4762::0::Bookmarks ON. (hyperref)
+Input File::url.sty::0::0::Input File
+Input Package::url.sty::0::0::url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+LaTeX Info::hyperref.sty::5115::0::Redefining \url.
+Package Info::hyperref.sty::6369::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::6374::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::6377::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::6384::0::backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::6389::0::Link coloring OFF. (hyperref)
+Package Info::hyperref.sty::6394::0::Link coloring with OCG OFF. (hyperref)
+Package Info::hyperref.sty::6399::0::PDF/A mode OFF. (hyperref)
+LaTeX Info::hyperref.sty::6439::0::Redefining \ref.
+LaTeX Info::hyperref.sty::6443::0::Redefining \pageref.
+Package Info::report.tex::0::0::Driver (autodetected): hpdftex. (hyperref)
+Input File::hpdftex.def::0::0::Input File
+Input File::rerunfilecheck.sty::0::0::Input File
+Input Package::rerunfilecheck.sty::0::0::rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package Info::rerunfilecheck.sty::282::0::New unique counter `rerunfilecheck'. (uniquecounter)
+Input File::graphicx.sty::0::0::Input File
+Input Package::graphicx.sty::0::0::graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::graphics.sty::0::0::Input File
+Input Package::graphics.sty::0::0::graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Input File::trig.sty::0::0::Input File
+Input Package::trig.sty::0::0::trig 2016/01/03 v1.10 sin cos tan (DPC)
+Input File::graphics.cfg::0::0::Input File
+Package Info::graphics.sty::99::0::Driver file: pdftex.def. (graphics)
+Input File::pdftex.def::0::0::Input File
+Input File::report.aux::0::0::Input File
+LaTeX Font Info::report.tex::8::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::report.tex::8::0::   ... okay.
+LaTeX Font Info::report.tex::8::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::report.tex::8::0::   ... okay.
+LaTeX Font Info::report.tex::8::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::report.tex::8::0::   ... okay.
+LaTeX Font Info::report.tex::8::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::report.tex::8::0::   ... okay.
+LaTeX Font Info::report.tex::8::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::report.tex::8::0::   ... okay.
+LaTeX Font Info::report.tex::8::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::report.tex::8::0::   ... okay.
+LaTeX Font Info::report.tex::8::0::   Checking defaults for PD1/pdf/m/n.
+LaTeX Font Info::report.tex::8::0::   ... okay.
+Package Info::report.tex::8::0::Link coloring OFF. (hyperref)
+Input File::nameref.sty::0::0::Input File
+Input Package::nameref.sty::0::0::nameref 2016/05/21 v2.44 Cross-referencing by name of section
+Input File::gettitlestring.sty::0::0::Input File
+Input Package::gettitlestring.sty::0::0::gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+LaTeX Info::report.tex::8::0::Redefining \ref.
+LaTeX Info::report.tex::8::0::Redefining \pageref.
+LaTeX Info::report.tex::8::0::Redefining \nameref.
+Input File::report.out::0::0::Input File
+Input File::report.out::0::0::Input File
+Input File::supp-pdf.mkii::0::0::Input File
+Input File::epstopdf-base.sty::0::0::Input File
+Input Package::epstopdf-base.sty::0::0::epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+Input File::grfext.sty::0::0::Input File
+Input Package::grfext.sty::0::0::grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+Package Info::epstopdf-base.sty::456::0::Graphics extension search list: [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps] \AppendGraphicsExtensions. (grfext)
+Input File::epstopdf-sys.cfg::0::0::Input File
+LaTeX Font Info::report.tex::14::0::   External font `cmex10' loaded for size <12>.
+LaTeX Font Info::report.tex::14::0::   External font `cmex10' loaded for size <8>.
+LaTeX Font Info::report.tex::14::0::   External font `cmex10' loaded for size <6>.
+LaTeX Font Info::report.tex::29::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::report.tex::29::0::   External font `cmex10' loaded for size <5>.
+hbox Warning::report.tex::58::0::Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+hbox Warning::report.tex::92::0::Overfull \hbox (6.9156pt too wide) in paragraph at lines 92--93
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+hbox Warning::report.tex::104::0::Overfull \hbox (6.9156pt too wide) in paragraph at lines 104--105
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+Input File::pdftex.def::0::0::Input File
+LaTeX Font Info::report.tex::132::0::   Try loading font information for OMS+cmr.
+Input File::omscmr.fd::0::0::Input File
+LaTeX Font Info::report.tex::132::0::   Font shape `OMS/cmr/m/n' in size <10> not available Font shape `OMS/cmsy/m/n' tried instead.
+hbox Warning::report.tex::137::0::Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Input File::pdftex.def::0::0::Input File
+Package Info::report.tex::159::0::Empty hook `BeforeClearDocument'. (atveryend)
+Package Info::report.tex::159::0::Empty hook `AfterLastShipout'. (atveryend)
+Input File::report.aux::0::0::Input File
+Package Info::report.tex::159::0::Executing hook `AtVeryEndDocument'. (atveryend)
+Package Info::report.tex::159::0::Executing hook `AtEndAfterFileList'. (atveryend)
+Package Info::report.tex::0::0::File `report.out' has not changed. Checksum: 95970285C1D4C71D829D8955FA7C9625;264. (rerunfilecheck)
+Package Info::report.tex::159::0::Empty hook `AtVeryVeryEnd'. (atveryend)
