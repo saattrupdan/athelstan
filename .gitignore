@@ -2,3 +2,11 @@
 *.log
 *~
 *_checkpoints*
+*_aux
+*_log
+*.out
+*.vim
+*.aux
+*.nav
+*.snm
+*.toc
