@@ -3,7 +3,7 @@
 A comparative analysis of constituencies in England and Wales.
 
 ## Quickstart
-See the <a href=presentation/presentation.pdf>presentation</a> for a quick view of the results, the <a href=report/report.pdf>report</a> for a slightly more in-depth report and the <a href=analysis.ipynb>notebook</a> to see the code.
+See the <a href=presentation/presentation.pdf>presentation</a> for a quick view of the results, the <a href=report/report.pdf>report</a> for a more in-depth overview and the <a href=analysis.ipynb>notebook</a> for the code.
 
 ## Description
 This is a cluster analysis project in which I compare all constituencies in England and Wales based on eight different variables related to demographics, business, qualifications and amenities. The use case would then be to find similar constituencies as a given location in England or Wales.
