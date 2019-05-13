@@ -8,6 +8,6 @@ See the <a href=presentation/presentation.pdf>presentation</a> for a quick view 
 ## Description
 This is a cluster analysis project in which I compare all constituencies in England and Wales based on eight different variables related to demographics, business, qualifications and amenities. The use case would then be to find similar constituencies as a given location in England or Wales.
 
-All data has been downloaded from the <a href=ons.gov.uk>Office for National Statistics</a>, and data on constituencies and their latitudes and longitudes are from <a href=doogal.co.uk>doogal.co.uk</a>.
+All data has been downloaded from the <a href=https://ons.gov.uk>Office for National Statistics</a>, and data on constituencies and their latitudes and longitudes are from <a href=https://doogal.co.uk>doogal.co.uk</a>.
 
 This project was the capstone project in the IBM applied data science specialisation on Coursera.
